@@ -121,3 +121,13 @@ Vercel
 Docker + Gunicorn + Nginx
 
 (Detailed deployment steps will be added later in this repo.)
+
+---
+
+## Future Enhancements
+
+ Async SQLAlchemy setup
+ Advanced Error Handling
+ JWT Refresh Tokens
+ Cloud Deployment Guide
+ Integration with React Frontend
