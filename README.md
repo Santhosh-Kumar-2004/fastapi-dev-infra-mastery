@@ -111,3 +111,13 @@ fastapi-project-forge/
 
 ---
 
+## 🌐 Deployment
+
+You can deploy this FastAPI app using:
+
+Render
+Railway
+Vercel
+Docker + Gunicorn + Nginx
+
+(Detailed deployment steps will be added later in this repo.)
