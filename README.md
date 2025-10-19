@@ -45,3 +45,14 @@ By the end of this project, you'll have learned to:
 
 ---
 
+
+## 🧠 Technologies Used
+- **FastAPI** ⚡  
+- **SQLAlchemy** 🗄️  
+- **Pydantic** 🧩  
+- **Uvicorn** 🚀  
+- **JWT / Passlib** 🔐  
+- **Pytest** 🧪  
+- **Docker** 🐳  
+
+---
