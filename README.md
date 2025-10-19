@@ -88,3 +88,23 @@ pip install fastapi uvicorn sqlalchemy pydantic python-multipart passlib[bcrypt]
 Open your browser → http://127.0.0.1:8000
 Swagger UI → http://127.0.0.1:8000/docs
 
+---
+
+## Project structure 
+
+fastapi-project-forge/
+│
+├── main.py
+├── models/
+│   └── user.py
+├── routers/
+│   ├── auth.py
+│   └── users.py
+├── schemas/
+│   └── user.py
+├── core/
+│   ├── config.py
+│   └── database.py
+├── tests/
+│   └── test_api.py
+└── requirements.txt
