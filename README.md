@@ -108,3 +108,6 @@ fastapi-project-forge/
 ├── tests/
 │   └── test_api.py
 └── requirements.txt
+
+---
+
