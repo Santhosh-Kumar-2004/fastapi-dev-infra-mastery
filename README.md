@@ -25,3 +25,22 @@ By the end of this project, you'll have learned to:
 
 ---
 
+## 🧱 11-Phase Roadmap
+
+| Phase | Focus | Outcome |
+|-------|--------|----------|
+| 1 | Setup & Fundamentals | Run your first FastAPI server |
+| 2 | Pydantic Models | Handle data validation & schemas |
+| 3 | CRUD Operations | Build APIs with Create, Read, Update, Delete |
+| 4 | SQLAlchemy | Connect to databases |
+| 5 | Dependency Injection | Manage database sessions cleanly |
+| 6 | Authentication | Implement JWT & secure routes |
+| 7 | Real-World Practices | Add error handling & CORS |
+| 8 | Async Performance | Use async operations for speed |
+| 9 | Testing | Write tests with pytest |
+| 10 | Deployment | Deploy with Docker or Render |
+| 11 | Full-Stack Integration | Connect React frontend |
+
+📘 [Download Full Roadmap (PDF)](FastAPI_11_Phase_Roadmap.pdf)
+
+---
