@@ -133,3 +133,10 @@ Docker + Gunicorn + Nginx
     Integration with React Frontend
 
 --- 
+
+## ✨ Author
+
+# 👨‍💻 Santhosh Kumar V
+Building modern web applications and full-stack solutions with React, FastAPI, and SQL.
+
+📬 Reach out for collaborations or freelance work!
