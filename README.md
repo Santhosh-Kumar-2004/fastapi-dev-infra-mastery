@@ -74,3 +74,7 @@ venv\Scripts\activate    # For Windows
 source venv/bin/activate  # For Mac/Linux
 
 --- 
+
+## Install dependencies
+
+pip install fastapi uvicorn sqlalchemy pydantic python-multipart passlib[bcrypt] python-jose[cryptography]
