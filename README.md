@@ -60,13 +60,13 @@ By the end of this project, you'll have learned to:
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone this repository
-```bash
+```bash```
 git clone https://github.com/<your-username>/fastapi-project-forge.git
 cd fastapi-project-forge
 
 ---
 
-## Create virtual environment
+## 🛠️ Setup Instructions
 
 python -m venv venv
 venv\Scripts\activate    # For Windows
