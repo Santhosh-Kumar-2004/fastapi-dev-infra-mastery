@@ -140,3 +140,8 @@ Docker + Gunicorn + Nginx
 Building modern web applications and full-stack solutions with React, FastAPI, and SQL.
 
 📬 Reach out for collaborations or freelance work!
+
+--- 
+
+## ⭐ If you like this project, give it a star!
+### Every ⭐ motivates me to build more open-source backend projects.
