@@ -24,3 +24,4 @@ By the end of this project, you'll have learned to:
 - ✅ Integrate FastAPI with **React** or any frontend
 
 ---
+
