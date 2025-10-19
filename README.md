@@ -64,3 +64,13 @@ By the end of this project, you'll have learned to:
 git clone https://github.com/<your-username>/fastapi-project-forge.git
 cd fastapi-project-forge
 
+---
+
+## Create virtual environment
+
+python -m venv venv
+venv\Scripts\activate    # For Windows
+# OR
+source venv/bin/activate  # For Mac/Linux
+
+--- 
