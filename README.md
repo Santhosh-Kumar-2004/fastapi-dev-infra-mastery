@@ -126,8 +126,10 @@ Docker + Gunicorn + Nginx
 
 ## Future Enhancements
 
- Async SQLAlchemy setup
- Advanced Error Handling
- JWT Refresh Tokens
- Cloud Deployment Guide
- Integration with React Frontend
+    Async SQLAlchemy setup
+    Advanced Error Handling
+    JWT Refresh Tokens
+    Cloud Deployment Guide
+    Integration with React Frontend
+
+--- 
