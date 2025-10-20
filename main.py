@@ -5,4 +5,4 @@ app = FastAPI()
 def greet():
     print("Fastapi learning")
 
-greet()
+greet() 
