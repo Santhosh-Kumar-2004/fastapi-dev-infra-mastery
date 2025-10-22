@@ -7,5 +7,5 @@ def greet():
     return "Fastapi learning"
 
 @app.get("/products")
-def products():
+def get_all_products():
     return "All the Products"
