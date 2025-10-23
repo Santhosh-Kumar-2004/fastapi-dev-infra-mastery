@@ -8,10 +8,10 @@ def greet():
     return "Fastapi learning"
 
 products = [
-    Product(1, "Laptop", "Laptop gaming", 999, 10),
-    Product(2, "Desktop", "Desktop Editing", 499, 20),
-    Product(3, "Mobile", "Samsung mobile", 299, 50),
-    Product(4, "Ranges", "Cool ranges", 1299, 5)
+    Product(id=1, name="Laptop", description="Laptop gaming", price=999, quantity=10),
+    Product(id=2, name="Desktop",description="Desktop Editing", price=499, quantity=20),
+    Product(id=3, name="Mobile", description="Samsung mobile", price=299, quantity=50),
+    Product(id=4, name="Ranges", description="Cool ranges", price=1299, quantity=5)
 ]
 
 @app.get("/products")
