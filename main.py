@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from models import Product
 
 app = FastAPI()
 
@@ -6,7 +7,9 @@ app = FastAPI()
 def greet():
     return "Fastapi learning"
 
-
+products = [
+    Product("1")
+]
 
 @app.get("/products")
 def get_all_products():
