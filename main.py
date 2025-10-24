@@ -17,3 +17,7 @@ products = [
 @app.get("/products") #Endpoint for returning all the products
 def get_all_products():
     return products
+
+@app.post("/sample")
+def sample():
+    return "sample returning"
