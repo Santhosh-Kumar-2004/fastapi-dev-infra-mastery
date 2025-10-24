@@ -22,6 +22,6 @@ def get_all_products():
 def sample():
     return "sample returning"
 
-@app.get("/product")
-def get_product_by_id(id: int):
+@app.get("/product/2")
+def get_product_by_id():
     return products[0]
