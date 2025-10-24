@@ -14,6 +14,6 @@ products = [
     Product(id=4, name="Ranges", description="Cool ranges", price=1299, quantity=5)
 ]
 
-@app.get("/products")
+@app.get("/products") #Endpoint for returning all the products
 def get_all_products():
     return products
