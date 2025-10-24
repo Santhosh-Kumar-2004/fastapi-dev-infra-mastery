@@ -18,6 +18,6 @@ products = [
 def get_all_products():
     return products
 
-@app.post("/sample")
+@app.post("/sample") #nothing
 def sample():
     return "sample returning"
