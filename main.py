@@ -21,3 +21,7 @@ def get_all_products():
 @app.post("/sample") #nothing
 def sample():
     return "sample returning"
+
+@app.get("/product")
+def get_product_by_id(id: int):
+    return products[0]
