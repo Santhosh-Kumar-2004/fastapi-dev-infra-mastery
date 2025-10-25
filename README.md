@@ -19,7 +19,7 @@ By the end of this project, you'll have learned to:
 - ✅ Validate and serialize data using **Pydantic**
 - ✅ Implement **JWT authentication**
 - ✅ Write **async** endpoints for high performance
-- ✅ Test APIs using **Pytest**
+- ✅ Test APIs using **Insomnia**
 - ✅ Deploy your backend to the cloud
 - ✅ Integrate FastAPI with **React** or any frontend
 
